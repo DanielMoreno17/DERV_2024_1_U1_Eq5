@@ -5,7 +5,8 @@ using UnityEngine;
 public class ChangeMaterials : MonoBehaviour
 {
 
-    public Renderer rends;
+    public 
+        Renderer rends;
     
     [SerializeField]
     private Material color1, color2, color3, color4, color5;
